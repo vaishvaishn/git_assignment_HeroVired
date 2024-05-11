@@ -11,4 +11,4 @@ d. Question number 3 consists of 20 points in total where 18 points are for comp
 
 e. Assignment related steps should be clearly mentioned in the README.md file of the GitHub repository with steps performed to complete each task. f. Make the GitHub repository private and after the due submission date, make it public for the assignment to be corrected.
 
-g. No commitment after the due date will be considered as part of the submission.
+f. No commitment after the due date will be considered as part of the submission.
